@@ -8,3 +8,6 @@ Classes
 DOM Manipulation
 Local storage
 Arrow Functions
+
+## APPLICATION:
+Its purpose of to allow authors to add books , read , leave comments and even delete books for a start 
