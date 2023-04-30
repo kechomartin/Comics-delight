@@ -1,4 +1,4 @@
-# COMICS-DELIGHT <img src='https://img.icons8.com/office/512/comics-magazine.png' width='50px' height='50px'>
+# COMICS-DELIGHT <img src='https://img.icons8.com/?size=512&id=ThjfS7nLQNeS&format=png' width='45px' height='45px'>
 
 This is an  app built in javascript, that allows the user to add comics and read existing ones .The goal of the project is to allow writers and readers to well, read comics , its a platform that allows a person to either register as a reader or a writer/author , this will enable the writers to post new issues of their work and the the readers to like exitsing ones.<br>
 </br>
